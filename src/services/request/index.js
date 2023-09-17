@@ -28,4 +28,4 @@ class HWRequest{
   }
 }
 
-export default new HWRequest(BASE_URL,TIMEOUT)
+export default  new HWRequest(BASE_URL,TIMEOUT)

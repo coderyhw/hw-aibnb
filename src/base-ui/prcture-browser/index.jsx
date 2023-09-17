@@ -4,7 +4,6 @@ import { CloseOutlined } from "@ant-design/icons";
 import {
   CSSTransition,
   SwitchTransition,
-  TransitionGroup,
 } from "react-transition-group";
 
 import { BrowserWrapper } from "./style";
